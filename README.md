@@ -10,3 +10,7 @@ enclosures.
 
 - [Creality](./creality)
   - [Ender 3](./creality/ender-3)
+  
+## Donations
+
+![Bitcoin Donations](./readme-resources/bitcoin-donations.png "Bitcoin Donations")
