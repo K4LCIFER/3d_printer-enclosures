@@ -13,4 +13,4 @@ enclosures.
   
 ## Donations
 
-![Bitcoin Donations](./readme-resources/bitcoin-donations.png "Bitcoin Donations")
+<!-- TODO -->
